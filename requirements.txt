@@ -4,7 +4,6 @@ bleach==3.1.5
 certifi==2020.4.5.1
 chardet==3.0.4
 Cython==0.29.17
-darknetpy @ https://github.com/danielgatis/darknetpy/raw/master/dist/darknetpy-4.1-cp36-cp36m-linux_x86_64.whl
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -63,4 +62,3 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 yolo34py==0.1rc12
 zipp==3.1.0
-
